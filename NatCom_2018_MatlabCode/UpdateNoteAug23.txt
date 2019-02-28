@@ -1,0 +1,13 @@
+Aug. 23, 2017
+
+Tyler provided updated standard deviations for the observed fold change.
+
+I revised "RealFoldChangeObservations" with these values.
+
+I uploaded the .mat files for each hypothesis (Results_Risom_Spring_2017), and regenerated the fold change plots with the updated empirical data.
+
+The figures in Results_Risom_Spring_2017 with the date "Aug. 23".
+
+The RisomCode.zip file does not contain these updates.
+
+Updated files were uploaded to Dropbox.

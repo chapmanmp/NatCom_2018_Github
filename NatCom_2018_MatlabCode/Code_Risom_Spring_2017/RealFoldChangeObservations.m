@@ -1,0 +1,15 @@
+%Real fold change observations, edited 8/23/2017
+
+%GSK vs Control
+FoldChange_K14high_GSKvsControl_Real = [1.0069, 1.2894, 1.9000, 2.2136, 2.8112, 4.1196, 3.0857];
+STD_K14high_GSKvsControl_Real = [0.1189, 0.2112, 0.0791, 0.0884, 0.0851, 0.2001, 0.0574];
+
+FoldChange_K14low_GSKvsControl_Real = [0.9975, 0.8867, 0.6661, 0.4958, 0.3328, 0.3563, 0.2567];
+STD_K14low_GSKvsControl_Real = [0.0427, 0.0826, 0.0293, 0.0367, 0.0313, 0.0413, 0.0205];
+
+%BEZ vs Control
+FoldChange_K14high_BEZvsControl_Real = [1.036900346, 0.952911378, 0.787310245, 0.591044115, 0.502270578, 0.320768557, 0.321058535];
+STD_K14high_BEZvsControl_Real = [0.072317636, 0.229081114, 0.10369576, 0.097235339, 0.055689064, 0.073660864, 0.038391007];
+
+FoldChange_K14low_BEZvsControl_Real = [0.9865, 1.0143, 1.0796, 1.1640, 1.1828, 1.1401, 1.2418];
+STD_K14low_BEZvsControl_Real = [0.0192, 0.0716, 0.0271, 0.0661, 0.0121, 0.0132, 0.0136];

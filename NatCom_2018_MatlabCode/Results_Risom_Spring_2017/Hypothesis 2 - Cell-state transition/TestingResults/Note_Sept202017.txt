@@ -1,0 +1,10 @@
+September 20, 2017
+
+Run "Script_To_Test_CellStateTrans_Models.m" in D15_Summer2016to2017/Risom_Spring_2017/Results_Risom_Spring_2017/Hypothesis 2 - Cell-state transition.
+    to generate the figures.
+    
+Figure key
+    -Red dotted lines : predictions using models identified on 15-well data set under cell-state transition hypothesis
+    -Black solid lines : test data (4-well data set, collected on a different day, evenly distributed death)
+    -Each point : mean at the center, error bar is standard deviation, computed from 4 samples
+
